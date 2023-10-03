@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">StreamApp</string>
+
+    <string name="events_tab">Events</string>
+    <string name="schedule_tab">Schedule</string>
+
+    <string name="error_label">Error</string>
+    <string name="default_error_message">Something went wrong</string>
+</resources>
